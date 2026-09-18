@@ -53,3 +53,5 @@ While you can technically write all of your JavaScript code inside the script ta
 ```
 
 The src (source) attribute is used here to specify the location for that external JavaScript file
+
+> Please Check General folder
