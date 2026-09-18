@@ -74,13 +74,16 @@ git merge dragon-idea
 
 ### Quick Reference
 
-| Command                  | What it does                                    |
-| ------------------------ | ----------------------------------------------- |
-| `git branch <name>`      | Create a new branch                             |
-| `git checkout <name>`    | Switch to an existing branch                    |
-| `git checkout -b <name>` | Create _and_ switch to a new branch             |
-| `git switch <name>`      | (Experimental) Switch branches                  |
-| `git merge <name>`       | Merge the named branch into your current branch |
+| Command                  | What it does                                     |
+| ------------------------ | ------------------------------------------------ |
+| `git branch <name>`      | Create a new branch                              |
+| `git checkout <name>`    | Switch to an existing branch                     |
+| `git checkout -b <name>` | Create _and_ switch to a new branch              |
+| `git switch <name>`      | (Experimental) Switch branches                   |
+| `git merge <name>`       | Merge the named branch into your current branch  |
+| `git add <name of file>` | adds your file so you can sen it                 |
+| `git add .`              | adds all your files so you can send them         |
+| `git push`               | sends your files to github inside the reopsitory |
 
 # Git Homework: Your First Branches
 
