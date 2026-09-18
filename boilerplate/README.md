@@ -25,3 +25,13 @@ The head section contains important meta data, or instruction for the browser.
 | `<body>`  | Contains all the content of the page                                            |
 
 > `<meta charset="UTF-8">` is a standardized character encoding widely used on the webpage. it is a method used by computers to store characters as data. By setting the character encoding to `UTF-8`, it ensures special characters are displayed such as `e` or `a` with accents.
+
+## add comments
+
+You add comments on the webpage like this:
+
+```html
+<!--this is a comment-->
+```
+
+> Please check elements `./elements` folder
